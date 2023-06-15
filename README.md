@@ -12,7 +12,12 @@ Nest.js installation and documentation page:
 
 Postman download page: <a style="text-decoration: none; cursor: pointer;" href="https://www.postman.com/downloads/">Download Postman</a>
 
-After installing Node.js and Nest.js properly, download this project and open terminal and type this command
+After installing Node.js and Nest.js properly, download this project and open terminal and type the command
+```
+npm install --save
+```
+to install required dependencies
+and then type this command
 ```
 npm run start
 ``` 
